@@ -40,5 +40,7 @@ public class ButterFlyPatternExample {
         N=5;
         // call drawButterflyPattern() method   
         drawButterflyPattern(N);  
+            //just for testing
+            printf("hi this is our first pollingscmjob");
         }  
 }  
